@@ -900,3 +900,8 @@ hr {
     margin-left: 0;
   }
 }
+
+@media (min-width: 1024px) {
+   .coach {
+	   margin-left: 150px;
+}
